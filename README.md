@@ -80,11 +80,11 @@ cd dice-game
 ```
 2. **install dependencies**:
 
-      npm install
+    ``` npm install ```
 
 3. **Run locally**:
 
-      npm run dev
+   ``` npm run dev ```
 
 4. **Open your browser at http://localhost:5173**
 
