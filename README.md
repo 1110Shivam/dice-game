@@ -45,7 +45,7 @@ A simple and engaging Dice Game built using **React.js**. The user guesses a num
 ---
 
 ## 📂 Project Structure
-
+```
 dice-game/
 ├── public/
 │ └── favicon.ico
@@ -66,7 +66,7 @@ dice-game/
 ├── package.json
 ├── tailwind.config.js
 └── vite.config.js
-
+```
 ---
 
 
@@ -99,12 +99,11 @@ cd dice-game
 
 **Name:** Shivam
 
-**Email:** [shivam.111025@gmail.com](mailto:shivam.111025@gmail.com)
+**Email:**    [shivam.111025@gmail.com](mailto:shivam.111025@gmail.com)
 
-**GitHub:** [github.com/1110Shivam](https://github.com/1110Shivam)
+**GitHub:**   [github.com/1110Shivam](https://github.com/1110Shivam)
 
 **LinkedIn:** [linkedin.com/in/shivam1110](https://linkedin.com/in/shivam1110)
 
----
 
 
